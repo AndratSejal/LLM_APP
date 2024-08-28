@@ -15,7 +15,7 @@ Before running the application, ensure you have the following:
 * Python 3.8+
 * Google Cloud SDK: Set up and configured to access Google Gemini API.
 
-  ## Step to Follow
+## Step to Follow
 
   1. Set up a virtual environment.
   2. Install the required dependencies.
